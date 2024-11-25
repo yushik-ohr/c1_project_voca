@@ -1,0 +1,20 @@
+apple 사과
+banana 바나나
+cat 고양이
+dog 개
+giraffe 기린
+hawk 매
+pigeon 비둘기
+bowl 사발, 그릇
+life 생명, 생활
+earth 지구, 땅
+pill 알약
+math 수학
+ocean 대양
+price 값, 가격
+machine 기계
+route 길
+gift 선물, 타고난 재능
+candle 양초, 촛불
+joke 농담, 농담을 하다
+art 예술, 미술
